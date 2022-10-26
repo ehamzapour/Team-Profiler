@@ -15,4 +15,4 @@ Inquirer and Jest are required for this application.
 Must run 'Jest' to test the employee constructors.
 
 ## Demo
-![demonstration gif]()
+![demonstration gif](./dist/images/Team-Profiler.gif)
