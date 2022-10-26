@@ -1,4 +1,4 @@
-# My-Employee-Tracker
+# Team-Profiler
 
 ## Table of Contents
 * General Info
