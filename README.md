@@ -16,3 +16,5 @@ Must run 'Jest' to test the employee constructors.
 
 ## Demo
 ![demonstration gif](./dist/images/Team-Profiler.gif)
+
+[![Full Size of the Demonstration Video]](https://drive.google.com/file/d/15JLAlhCY8znFUC0DAf4oi5ZcvvKaFpVK/view)
